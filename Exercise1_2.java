@@ -12,7 +12,7 @@ public class Exercise1_2 {
         {
             result = x;
         }
-        else if(y > x && x > y)
+        else if(y > x && y > z)
         {
             result = y;
         }
