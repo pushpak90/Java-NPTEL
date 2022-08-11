@@ -17,7 +17,7 @@ public class Exercise2_1{
         Student s1 = new Student();
         s1.print();
 
-        School s2 = new School();
+        
         s1.print();
     }
 }
